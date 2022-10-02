@@ -47,12 +47,12 @@ const Contact = () => {
       <Row md={{ cols: 3 }} xs={{ cols: 2 }} className="contact-row">
         {contacts.map((contact) => (
           <Col className="contact-col">
-            <a href={contact.href} alt={contact.alt}>
+            <a href={contact.href} alt={contact.alt} target="_blank">
               <img src={contact.icon} className="contact-icon" />
             </a>
           </Col>
         ))}
-        <a href="mailto:ardaorkin@gmail.com" alt="gmail">
+        <a href="mailto:ardaorkin@gmail.com" alt="gmail" target="_blank">
           <img src={envelope} className="contact-icon" />
         </a>
       </Row>
