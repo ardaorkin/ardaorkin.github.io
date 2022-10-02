@@ -29,7 +29,11 @@
 }
 
 .about-img-col {
-  margin-bottom: 5%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: end;
+  margin-bottom: 3rem;
+  margin-right: 3rem;
 }
 
 .about-img {
@@ -42,12 +46,6 @@
   border-radius: 3%;
   -webkit-box-shadow: 5px 5px 0px 1px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 5px 5px 0px 1px rgba(0, 0, 0, 0.5);
-}
-
-.about-desc-col {
-  align-items: flex-start;
-  justify-content: start;
-  display: flex;
 }
 
 .name {

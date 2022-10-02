@@ -1,16 +1,15 @@
 import React from "react";
-import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
 const About = () => {
   return (
     <div id="about" className="page about">
-      <Row md={2} xs={1}>
-        <Col md={3} xs={6} className="about-img-col">
+      <Row>
+        <Col md={4} className="about-img-col">
           <div className="about-img" />
         </Col>
-        <Col className="about-desc-col">
+        <Col>
           <div>
             <h1>
               Hello! I'm <span className="name">Arda</span>
