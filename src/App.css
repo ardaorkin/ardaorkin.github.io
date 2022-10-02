@@ -36,17 +36,17 @@
   margin-right: 3rem;
 }
 
-.about-img {
+/* .about-img {
   width: 20rem;
   height: 20rem;
   background-image: url("./assets/profil.jpg");
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover; 
   border-radius: 3%;
   -webkit-box-shadow: 5px 5px 0px 1px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 5px 5px 0px 1px rgba(0, 0, 0, 0.5);
-}
+} */
 
 .name {
   color: #f59208;

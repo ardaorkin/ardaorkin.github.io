@@ -6,9 +6,9 @@ const About = () => {
   return (
     <div id="about" className="page about">
       <Row>
-        <Col md={4} className="about-img-col">
+        {/* <Col md={4} className="about-img-col">
           <div className="about-img" />
-        </Col>
+        </Col> */}
         <Col>
           <div>
             <h1>
