@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ardaorkin.github.io/static/css/main.d5faf3ce.css",
+    "main.js": "/ardaorkin.github.io/static/js/main.dd2f7f36.js",
+    "static/js/787.8e9a07cd.chunk.js": "/ardaorkin.github.io/static/js/787.8e9a07cd.chunk.js",
+    "static/media/bg.jpg": "/ardaorkin.github.io/static/media/bg.6f8badc951678cc28cd6.jpg",
+    "static/media/profil.jpg": "/ardaorkin.github.io/static/media/profil.538e32b8c0ce806648b6.jpg",
+    "index.html": "/ardaorkin.github.io/index.html",
+    "static/media/github.svg": "/ardaorkin.github.io/static/media/github.22e65707326e3e1e37afd21c5334995a.svg",
+    "static/media/linkedin.svg": "/ardaorkin.github.io/static/media/linkedin.2eda7bddaacee15c44494bb63ca94165.svg",
+    "static/media/twitter.svg": "/ardaorkin.github.io/static/media/twitter.db226d55c343637e1371fc247b144b51.svg",
+    "static/media/spotify.svg": "/ardaorkin.github.io/static/media/spotify.d1d7bf5349b6f9b206910392395cd312.svg",
+    "static/media/medium.svg": "/ardaorkin.github.io/static/media/medium.03754d0bbb5581717fb400e62a36f9a6.svg",
+    "static/media/stack-overflow.svg": "/ardaorkin.github.io/static/media/stack-overflow.2b16c13845003b1854aa013e242d8570.svg",
+    "static/media/envelope.svg": "/ardaorkin.github.io/static/media/envelope.ceed57e9483391a79813f313693eb103.svg",
+    "main.d5faf3ce.css.map": "/ardaorkin.github.io/static/css/main.d5faf3ce.css.map",
+    "main.dd2f7f36.js.map": "/ardaorkin.github.io/static/js/main.dd2f7f36.js.map",
+    "787.8e9a07cd.chunk.js.map": "/ardaorkin.github.io/static/js/787.8e9a07cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5faf3ce.css",
+    "static/js/main.dd2f7f36.js"
+  ]
+}
